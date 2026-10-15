@@ -20,7 +20,7 @@ HTML · CSS · JavaScript · Three.js · FastAPI
 
 ## 查看作品
 
-- [独立展示页](./index.html)
+- [在线展示页](https://lukezhuo666.github.io/LukeZ-B-SIDE/)
 - [原项目与实现记录](https://github.com/eiddiedev/B-SIDE)
 - [LukeZ 总作品集](https://lukezhuo666.github.io/LukeZ/)
 
